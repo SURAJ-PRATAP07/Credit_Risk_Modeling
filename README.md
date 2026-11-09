@@ -140,3 +140,6 @@ Potential extensions:
 
 ## Final Note
 This project emphasizes realistic, deployable credit risk modeling with strong business alignment rather than leaderboard optimization.
+
+Made by:  SURAJ PRATAP 
+Linkdin: https://www.linkedin.com/in/surajprata07/
