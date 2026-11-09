@@ -1,0 +1,26 @@
+# Data (large, download from Kaggle instead)
+data/*
+!data/README.md
+*.csv
+*.zip
+
+# Models and session dumps
+*.pkl
+*.joblib
+*.dill
+
+# Secrets
+.env
+kaggle.json
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
